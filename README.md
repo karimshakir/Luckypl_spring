@@ -1,1 +1,1 @@
-# potluck_spring
+# similar to pLuck application
